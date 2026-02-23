@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Applied%20Mathematics%20Modeling&fontSize=40" />
+  <img src="https://img.shields.io/badge/Polytech-Applied%20Mathematics%20%26%20Modeling-blue?style=for-the-badge&logo=python&logoColor=white" height="100">
 </p>
 
 ### 🎓 Education & Profile
