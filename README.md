@@ -14,9 +14,7 @@
 ### 🛠️ Technical Stack
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e7eaed?style=flat&logo=mathworks&logoColor=ed1c24) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 - **Databases:** ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-- **AI Interests:** Transformer architectures, LLM fine-tuning, and Neural Networks implementation.
-
-
+- **Interests:** Mathematical Optimization, Numerical Modeling, and Machine Learning.
 ---
 ### 📫 Connect with me:
 - **LinkedIn:** [evrard-lecureur](https://www.linkedin.com/in/evrard-lecureur/)
