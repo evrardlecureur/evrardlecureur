@@ -12,14 +12,12 @@
 - **Databases:** ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 - **AI Interests:** Transformer architectures, LLM fine-tuning, and Neural Networks implementation.
 
-### 🚀 Upcoming Projects
-- **LLM from Scratch:** Implementing a basic Large Language Model to understand the inner workings of Transformers.
-- **Llama Fine-tuning:** Experimenting with domain-specific fine-tuning on Llama models.
-
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=evrardlecureur&show_icons=true&theme=radical" alt="Evrard's Stats" />
 </p>
 
 ---
-📫 **Connect with me:** [Link to your LinkedIn or Email]
+### 📫 Connect with me:
+- **LinkedIn:** [evrard-lecureur](https://www.linkedin.com/in/evrard-lecureur/)
+- **Email:** [evrardlecureur@gmail.com](mailto:evrardlecureur@gmail.com)
