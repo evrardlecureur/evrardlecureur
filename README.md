@@ -1,7 +1,8 @@
 # Hi, I'm Evrard! 👋
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Applied%20Mathematics%20&%20Modeling&fontSize=40)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Applied%20Mathematics%20&%20Modeling&fontSize=40" />
+</p>
 ### 🎓 Education & Profile
 - 🏫 **Applied Mathematics & Modeling Student** at **Polytech Nice Sophia** (French Riviera).
 - 🧠 Deeply curious about **Artificial Intelligence** and its mathematical foundations.
